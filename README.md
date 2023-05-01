@@ -64,3 +64,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Seguir seguintes comandos após a instalação:
+    - instalar um gerenciador de banco e criar o banco de dados banco_local
+    - php artisan migrate => 'instala o banco de dados do sistema no banco de dados local'
+    - php artisan db:seed => 'popula o banco com os dados iniciais do sistema ex: user de login do sistema...'
