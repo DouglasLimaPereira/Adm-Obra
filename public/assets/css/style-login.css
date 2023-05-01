@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(hsl(217, 100%, 46%, .7), hsl(193, 100%, 49%, .9)), url('/assets/images/background-login2.jpg');
+}
+
+.tx-shadow{
+    text-shadow: black 0.04em 0.04em 0.2em;
+    font-weight: 600;
+}
